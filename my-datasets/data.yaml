@@ -1,15 +1,6 @@
-names:
-- hole
-- objects
-- oil_spot
-- thread_error
+names: ['hole','objects','oil_spot','thread_error']
 nc: 4
-roboflow:
-  license: CC BY 4.0
-  project: yolo-fabric-defect-detector-ux5tx
-  url: https://app.roboflow.com/ujwal-sintre/yolo-fabric-defect-detector-ux5tx/1
-  version: 1
-  workspace: ujwal-sintre
-test: ../test/images
-train: /content/my-datasets/train/images
-val: /content/my-datasets/valid/images
+test: my-datasets/test/images
+train: my-datasets/train/images
+val: my-datasets/valid/images
+
