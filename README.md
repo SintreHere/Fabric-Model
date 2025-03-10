@@ -20,8 +20,8 @@ This project uses a YOLO-based deep learning model to detect defects in fabric w
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/SintreHere/FabricImageDataset.git
-   cd FabricImageDataset
+   git clone https://github.com/SintreHere/Fabric-Model.git
+   cd Fabric-Model
    ```
 2. Install dependencies:
    ```sh
